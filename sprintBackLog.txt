@@ -1,0 +1,14 @@
+--Histórias Implementadas
+
+As alterações foram realizadas de acordo com o pedido dos clientes de ID: 1 e 3:
+
+--> Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes 
+dos veículos na cor azul para me proporcionar uma melhor experiência de usuário;
+
+--> Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links 
+para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha 
+navegação no portal.
+
+
+--Esforço Estimado
+--> Baixa nível de complexidade/Esforço leve. 
