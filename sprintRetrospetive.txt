@@ -1,6 +1,16 @@
+--> Feedback:
+
 O direcionamento da href "Principal" está funcionando corretamente, porém as outras duas("Veículos em oferta" e "Como falar conosco") precisa da adição de um destino para a função.
 
-O site precisa de uma estilização, podendo utilizar o CSS, para uma melhor experiência para o cliente, como: Ilustrações dos carros na página principal, um backgroud simples
-para que a página possa trazer outro objetos como foco, uma mudança no tamanho e na fonte dos textos, etc.
+
+--> Melhorias:
+O site precisa de uma estilização, podendo utilizar o CSS, para uma melhor experiência para o cliente, como:
+    Ilustrações dos carros na página principal;
+    Um backgroud simples para que a página possa trazer outro objetos como foco; 
+    Uma mudança no tamanho e na fonte dos textos;
+    Etc.
+
+O site precisa de uma maior variedade de funções para que o usuário tenha uma variedade de opções, o mantendo em nossas aplicações.
+
 
 
